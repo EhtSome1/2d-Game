@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Mushroom
+  - Enemy
+  - Fly
+  - SpikeTrap
+  - Goblin
+  - Log
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Random
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2328307151
+    locked: 0
+  - name: player
+    uniqueID: 2150765699
+    locked: 0
+  - name: background
+    uniqueID: 3009587111
+    locked: 0
+  - name: backround
+    uniqueID: 897909795
+    locked: 0
+  - name: Player
+    uniqueID: 729440893
+    locked: 0
+  - name: Ground
+    uniqueID: 3474558683
+    locked: 0
